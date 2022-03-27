@@ -1,0 +1,4 @@
+[debug] [apache-spark-with-scala-test] Classpath dependencies List()
+[debug] [apache-spark-with-scala-test] Dependencies from configurations List(apache-spark-with-scala)
+[debug] Bloop wrote the configuration of project 'apache-spark-with-scala-test' to '/Users/nsoria/Documents/github-nsoria/apache-spark-with-scala/.bloop/apache-spark-with-scala-test.json'
+[success] Generated .bloop/apache-spark-with-scala-test.json

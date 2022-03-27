@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/nsoria/Documents/github-nsoria/apache-spark-with-scala/project/project/"), "apache-spark-with-scala-build-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/nsoria/Documents/github-nsoria/apache-spark-with-scala/project/project/"), "apache-spark-with-scala-build-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
